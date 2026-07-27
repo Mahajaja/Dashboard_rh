@@ -25,7 +25,7 @@ col_logo, col_titulo = st.columns([1, 8])
 with col_logo:
     st.image("GREEN GOLD.png", width=80)
 with col_titulo:
-    st.title("Dashboard RRHH Green Gold Organic")
+    st.title("Dashboard Recursos Humanos")
 
 
 # --- FUNCIÓN PARA GENERAR EL HTML DE LAS CARDS ---
