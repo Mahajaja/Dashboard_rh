@@ -11,7 +11,7 @@ import io
 # 1. CONFIGURACIÓN INICIAL DE LA APP
 # ==========================================
 st.set_page_config(
-    page_title="RRHH Green Gold - Vacaciones",
+    page_title="Green Gold - RRHH",
     layout="wide",
     initial_sidebar_state="expanded"
 )
